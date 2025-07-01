@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/react-scroll": "^1.8.10",
+    "aos": "^2.3.4",
     "bootstrap": "^5.3.7",
     "html-react-parser": "^5.2.5",
     "next": "15.3.4",
@@ -20,6 +21,7 @@
     "react-slick": "^0.30.3",
     "react-type-animation": "^3.2.0",
     "sass": "^1.89.2",
+    "slick-carousel": "^1.8.1",
     "swiper": "^11.2.10",
     "typewriter-effect": "^2.22.0"
   },
@@ -27,6 +29,7 @@
     "@eslint/eslintrc": "^3",
     "@iconify/react": "^6.0.0",
     "@tailwindcss/postcss": "^4",
+    "@types/aos": "^3.0.7",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
