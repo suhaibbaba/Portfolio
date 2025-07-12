@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_layout_footers",
+  "info": {
+    "displayName": "Footer"
+  },
+  "options": {},
+  "attributes": {
+    "message": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}

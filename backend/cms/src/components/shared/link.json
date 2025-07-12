@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_shared_links",
+  "info": {
+    "displayName": "Link"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "required": false
+    },
+    "href": {
+      "type": "string",
+      "required": true,
+      "regex": "^(https?:\\/\\/[^\\s]+|mailto:[^\\s]+|tel:[^\\s]+|ftp:\\/\\/[^\\s]+|\\/[^\\s]*|#[^\\s]*)$"
+    }
+  },
+  "config": {}
+}
